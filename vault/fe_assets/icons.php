@@ -1,5 +1,5 @@
 <?php
-/**
+/**عو
  * This file is a part of the CIDRAM package.
  * Homepage: https://cidram.github.io/
  *

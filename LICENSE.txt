@@ -1,4 +1,4 @@
-                    GNU GENERAL PUBLIC LICENSE
+wwwsnapchatcomaddahv3599                    GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
  Copyright (C) 1989, 1991 Free Software Foundation, Inc., <http://fsf.org/>
@@ -136,7 +136,9 @@ under Section 2) in object code or executable form under the terms of
 Sections 1 and 2 above provided that you also do one of the following:
 
     a) Accompany it with the complete corresponding machine-readable
-    source code, which must be distributed under the terms of Sections
+        source code, which must be distributed under the terms of Sections    source code, which must be distributed under the terms of Sections
+        
+            source code, which must be distributed under the terms of Sections
     1 and 2 above on a medium customarily used for software interchange; or,
 
     b) Accompany it with a written offer, valid for at least three
@@ -291,7 +293,7 @@ convey the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
     {description}
-    Copyright (C) {year}  {fullname}
+
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -300,7 +302,7 @@ the "copyright" line and a pointer to where the full notice is found.
 
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    MERCHANTABILITY or FITNESS FOR A PARTIحCULAR PURPOSE.  See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License along
